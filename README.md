@@ -3,7 +3,7 @@ Final submission in Statistical Methodes
 
 This is a report in the course Statistical Methodes, and the dataset that is used is CO2 that is included in R Studio.
 
-This was the task, and it is shown mostly in the pdf, with some code being in R studio form.
+Below is the task and it is shown mostly in the pdf, with some code being in R studio form.
 
 1. Introduces the data and it’s context.
 2. Provides a briefed information about its variables, its variable types (from statistician’s perspective), dataset’s size, etc.
